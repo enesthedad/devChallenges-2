@@ -23,7 +23,11 @@ This project is a simple implementation of a contact Page design using only HTML
 
 - HTML
 - CSS
+### Links
 
+- Solution URL: [solution](https://github.com/enesthedad/devChallenges-2)
+- Live Site URL: [here](https://verdant-starlight-c66100.netlify.app/)
+- 
 ## Original design by <a href='https://devchallenges.io/profile/ff6a2335-b279-4601-8927-85c85af7e7d8'>Thu Nghiem</a>:
 
    ```bash
